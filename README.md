@@ -181,7 +181,7 @@ Project 창의 Platform Material 클릭 -> Inspector의 Albedo 옆 상자 클릭
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/3.create_empty2_in_guide_academy.png)
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/4.create_guide_brain.png)
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/5.create_C#.png)
-![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/6.created_2C#.png)
+![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/6.create_2C#.png)
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/7.open_Guide_Academy.png)
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/8.edit_Guide_Academy.png)
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/9.edit_Guide_Agent.png)
