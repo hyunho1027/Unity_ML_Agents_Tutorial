@@ -11,3 +11,5 @@
 
 ## 1. Unity를 다운 받는다.
 ![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png "unity_download")
+
+![Alt text](/unity_ml_agents_guide/sub/mb.gif)
