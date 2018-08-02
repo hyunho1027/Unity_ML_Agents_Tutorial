@@ -3,6 +3,7 @@
 ## 가이드 설명
 - Unity ML Agents의 기본적인 사용법을 알아본다.
 - Unity ML Agents의 예제인 RollerBall을 구현해본다.
+- 직접 구현할 RollerBall
 ![Alt text](/unity_ml_agents_guide/sub/mb.gif)
 
 ## 진행 환경
@@ -11,6 +12,6 @@
 - Tensorflow==1.5.0 
 
 ## 1. Unity를 다운 받는다.
-![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png "unity_download")
+![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
 
 
