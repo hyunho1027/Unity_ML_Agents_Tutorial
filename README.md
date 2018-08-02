@@ -269,3 +269,17 @@ Hierarchy의 GuideBrain 클릭 -> Inspector창 Vector Observation 의 Space Type
 
 ![Alt text](/unity_ml_agents_guide/7.test_player_mode/3.player_mode.gif)
 - - -
+
+## 8. External Type으로 변경하여 강화학습을 통해 학습합니다.
+
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/1.change_external.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/2.save_scene.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/3.build.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/4.check_build_option.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/5.select_build_location.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/6.complete_build.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/7.move_ml's_python.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/8.learn.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/9.open_tensorboard.png)
+![Alt text](/unity_ml_agents_guide/8.change_external_mode/10.tensorboard.png)
+
