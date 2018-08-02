@@ -61,7 +61,7 @@ ml-agents/unity-environment/Assets
 
 ### 4-2. ML-Agents 폴더를 unity의 Project창에 드래그하여 import합니다.
 
-![Alt text](/unity_ml_agents_guide/4.import_ml_agents/2.import_ML_Agents.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/2.import_ML-Agents.png)
 
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/3.confirm_error.png)
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/4.edit_project_settings_players.png)
