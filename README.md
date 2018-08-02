@@ -18,10 +18,18 @@
 
 ## 1. Unity를 설치한다.
 
-### personal 무료 버전을 설치한다.
+### Personal 무료 버전을 설치한다.
 
-unity 설치 경로 : https://store.unity.com/kr
+unity 설치 url : https://store.unity.com/kr
 
 ![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
+- - -
 
+## 2. Unity ml agents도 설치한다.
 
+### download zip 이나 git clone 을 이용하여 설치한다.
+
+unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
+
+![Alt text](/unity_ml_agents_guide/2.unity_ml_agent_download/unity_ml_agent_download.png)
+- - -
