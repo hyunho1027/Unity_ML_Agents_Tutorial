@@ -210,7 +210,7 @@ Project창 우클릭 -> Create -> C# Script ->이름을 GuideAgent로 설정 (�
 
 ### 6-6. Project 창에 GuideAcademy, GuideAgent 생성 되었는지 확인
 
-![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/6.create_2Scripts.png)
+![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/6.created_2Scripts.png)
 
 ### 6-7. Project 창의 GuideAcademy를 더블클릭하여 실행
 
