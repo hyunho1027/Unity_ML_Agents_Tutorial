@@ -27,7 +27,7 @@ unity 설치 url : https://store.unity.com/kr
 
 ## 2. Unity ml agents 설치한다.
 
-### download zip 이나 git clone 을 이용하여 설치한다.
+### Download zip 이나 git clone 을 이용하여 설치한다.
 
 unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
 
