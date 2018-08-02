@@ -45,7 +45,7 @@ unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
 ![Alt text](/unity_ml_agents_guide/3.create_new_project/2.set_project_name_and_loaction.png)
 
 ### 3-3. 프로젝트를 실행합니다.
-#### * Layout 은 설정에 따라 다를 수 있습니다.
+#### * Layout 은 개인설정에 따라 다를 수 있습니다.
 
 ![Alt text](/unity_ml_agents_guide/3.create_new_project/3.complete.png)
 - - -
