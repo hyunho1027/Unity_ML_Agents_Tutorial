@@ -48,3 +48,24 @@ unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
 #### * Layout 은 설정에 따라 다를 수 있습니다.
 
 ![Alt text](/unity_ml_agents_guide/3.create_new_project/3.complete.png)
+- - -
+
+## 4. unity ml agents를 import 합니다.
+
+### 4-1. 위에서 설치한 ml agents 경로로 이동합니다.
+ml agents 폴더에서 unity-environment 의 Assets 폴더로 이동합니다.
+
+ml-agents/unity-environment/Assets
+
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/1.find_ML-Agents.png)
+
+### 4-2. ML-Agents 폴더를 unity의 Project창에 드래그하여 import합니다.
+
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/2.import_ML_Agents.png)
+
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/3.confirm_error.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/4.edit_project_settings_players.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/5.resolution_and_presentation_setting.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/6.set_4.x.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/7.restart.png)
+![Alt text](/unity_ml_agents_guide/4.import_ml_agents/8.ENABLE_TENSORFLOW.png)
