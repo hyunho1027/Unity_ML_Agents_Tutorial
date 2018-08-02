@@ -11,6 +11,7 @@
 - - -
 
 ## 진행 환경
+- Windows10 64bit
 - Unity 2018.1.6f1 Personal
 - VisualStudio 2015 
 - Tensorflow==1.5.0 
@@ -208,11 +209,11 @@ Project창 우클릭 -> Create -> C# Script ->이름을 GuideAgent로 설정 (�
 
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/5.create_Script.png)
 
-### 6-6. Project 창에 GuideAcademy, GuideAgent 생성 되었는지 확인
+### 6-6. Project 창에 GuideAcademy, GuideAgent 생성 되었는지 확인합니다.
 
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/6.created_2Scripts.png)
 
-### 6-7. Project 창의 GuideAcademy를 더블클릭하여 실행
+### 6-7. Project 창의 GuideAcademy를 더블클릭하여 실행합니다.
 
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/7.open_Guide_Academy.png)
 
