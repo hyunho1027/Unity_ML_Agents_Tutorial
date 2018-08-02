@@ -18,9 +18,7 @@
 
 ## 1. Unity를 설치한다.
 
-unity 설치 경로
-
-https://store.unity.com/kr
+unity 설치 경로 : https://store.unity.com/kr
 
 ![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
 
