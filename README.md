@@ -71,7 +71,7 @@ ml-agents/unity-environment/Assets
 
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/4.edit_project_settings_players.png)
 
-### 4-5. Inspector창이 바뀐걸 확인하고, Resolution and Presentation 탭의 설정을 아래와 같이 바꿔줍니다.
+### 4-5. Inspector창이 바뀐걸 확인하고, Resolution and Presentation 탭의 설정을 아래와 같이 변경합니다.
 
 Run In Background -> 체크
 
@@ -79,7 +79,7 @@ Display Resolution Dialog -> Disabled
 
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/5.resolution_and_presentation_setting.png)
 
-### 4-6. 다음 Other Settings의 탭으로 이동하여 설정을 아래와 같이 바꿔줍니다.
+### 4-6. 다음 Other Settings의 탭으로 이동하여 설정을 아래와 같이 변경합니다.
 
 Scripting Runtime Version을 .NET 4.x 버전으로 바꿔줍니다.
 
@@ -89,7 +89,7 @@ Scripting Runtime Version을 .NET 4.x 버전으로 바꿔줍니다.
 
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/7.restart.png)
 
-### 4-8. Other Setting 탭의 설정이 변경된 걸 확인하고 Scripting Define Symbols* 를 아래와 같이 설정합니다.
+### 4-8. Other Setting 탭의 설정이 변경된 걸 확인하고 Scripting Define Symbols* 설정을 아래와 같이 변경합니다.
 
 Scripting Runtime Version -> .NET 4.x Equivalent 로 변경
 Api Compatibility Level* -> .NET 4.x 로 변경
