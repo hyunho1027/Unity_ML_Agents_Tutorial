@@ -16,7 +16,9 @@
 - Tensorflow==1.5.0 
 - - -
 
-## 1. Unity를 다운 받는다.
+## 1. Unity를 설치한다.
+https://store.unity.com/kr
+
 ![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
 
 
