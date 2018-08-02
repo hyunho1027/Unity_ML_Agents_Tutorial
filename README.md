@@ -5,7 +5,8 @@
 - Unity ML Agents의 예제인 RollerBall을 구현해본다.
 - - -
 
-- 직접 구현할 RollerBall
+- RollerBall
+
 ![Alt text](/unity_ml_agents_guide/sub/mb.gif)
 - - -
 
