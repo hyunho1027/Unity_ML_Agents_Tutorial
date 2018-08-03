@@ -1,4 +1,4 @@
-# Unity_ML_Agents_Guide (유니티 머신러닝 에이전트)
+# Unity ML Agents Guide (유니티 머신러닝 에이전트 가이드)
 - - -
 
 ## 가이드 설명
