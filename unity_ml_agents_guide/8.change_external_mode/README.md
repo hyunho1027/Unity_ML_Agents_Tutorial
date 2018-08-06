@@ -1,4 +1,5 @@
 # 8. External Type으로 변경하여 강화학습을 통해 학습시킵니다.
+- - -
 
 ## 8-1. GuideBrain 의 Brain Type를 External로 변경합니다.
 
