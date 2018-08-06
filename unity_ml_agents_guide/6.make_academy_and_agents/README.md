@@ -1,4 +1,5 @@
 # 6. Academy와 Agent를 생성합니다.
+- - -
 
 ## 6-1. Hierarchy 창에 Empty를 생성합니다.
 
