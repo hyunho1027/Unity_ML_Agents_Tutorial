@@ -18,4 +18,4 @@
 - Tensorflow==1.5.0 
 - - -
 
-## [NEXT 1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/1.unity_download)
+## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/1.unity_download)
