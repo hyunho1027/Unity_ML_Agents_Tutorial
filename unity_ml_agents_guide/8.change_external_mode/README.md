@@ -5,40 +5,47 @@
 Hierarchy의 GuideBrain 클릭 -> Inspector창 Brain Type을 External 로 변경
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/1.change_external.png)
+- - -
 
 ## 8-2. 현재 Scene을 저장합니다.
 
 File 클릭 -> Save Scenes 클릭
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/2.save_scene.png)
+- - -
 
 ## 8-3. 현재 저장된 Scene을 Build 합니다.
 
 File 클릭 -> Build Settings... 클릭
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/3.build.png)
+- - -
 
 ## 8-4. 현재 저장된 Scene을 체크하고 Build합니다.
 
 체크할 Scene가 없다면 Project창의 Scenes의 왼쪽 삼각형을 클릭하면 나오는 SampleScene를 드래그하여 Scenes In Build 창으로 옮깁니다.
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/4.check_build_option.png)
+- - -
 
 ## 8-5. Build할 폴더를 지정합니다.
 
 아래 화면은 Build를 누르면 나오는 기본 경로입니다. 저는 기본적으로 설정된 위치에 Build 하였습니다.
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/5.select_build_location.png)
+- - -
 
 ## 8-6. Build가 완료되었는지 확인합니다.
 
 Build가 완료되면 아래와 같이 Build된 경로의 폴더가 열립니다.
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/6.complete_build.png)
+- - -
 
 ## 8-7. 직접 학습을 시키기 위해 첫 부분에 다운받았던 ml-agents의 python폴더로 이동합니다.
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/7.move_ml's_python.png)
+- - -
 
 ## 8-8. 학습을 시작합니다.
 
@@ -51,6 +58,7 @@ python learn.py [Build Path]/[Project Name] --run-id=[Run Id] --train
 ex. python learn.py [Build Path]/Guide_Project --run-id=Guide_1st --train
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/8.learn.png)
+- - -
 
 ## 8-9. 학습이 잘 되고 있는지 Tensorboard를 이용하여 확인합니다.
 
@@ -63,6 +71,7 @@ tensorboard --logdir=summaries
 아래와 같은 Url을 통해 Tensorboard에 접속합니다.
 
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/9.open_tensorboard.png)
+- - -
 
 ## 8-10. Tensorboard를 모니터링 합니다.
 
