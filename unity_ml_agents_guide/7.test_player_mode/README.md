@@ -1,4 +1,5 @@
 # 7. Player Type으로 테스트합니다.
+- - -
 
 ## 7-1. GuideBrain의 Brain Type을 Player로 변경하고 설정을 아래와 같이 변경합니다.
 
