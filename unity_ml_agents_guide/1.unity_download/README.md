@@ -3,7 +3,9 @@
 ## Personal 무료 버전을 설치합니다.
 
 unity 최신 버전 설치 url : https://store.unity.com/kr
+
 unity 이전 버전 설치 url : https://unity3d.com/kr/get-unity/download/archive
+
 ![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
 - - -
 
