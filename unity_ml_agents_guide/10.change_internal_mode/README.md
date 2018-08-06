@@ -36,7 +36,7 @@ Hierarchy 의 GuideBrain 클릭 -> Inspector 창의 Brain Type을 Internal로 �
 ![Alt text](/unity_ml_agents_guide/10.change_internal_mode/5.play.png)
 - - -
 
-## 10-6. 직접 학습한 Model이 Platform을 직접 제어하는 것을 확인합니다.
+## 10-6. 학습한 Model이 Platform을 직접 제어하는 것을 확인합니다.
 
 아래의 model은 Agent를 최소한의 코딩으로 만들어서 성능이 완벽하지 않습니다.
 
