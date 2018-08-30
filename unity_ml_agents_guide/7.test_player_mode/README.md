@@ -18,4 +18,6 @@ Hierarchy의 GuideBrain 클릭 -> Inspector창 Vector Observation 의 Space Type
 ![Alt text](/unity_ml_agents_guide/7.test_player_mode/3.player_mode.gif)
 - - -
 
+## [PREV_6. Academy와 Agent를 생성합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/6.make_academy_and_agents)
+
 ## [NEXT_8. External Type으로 변경하여 강화학습을 통해 학습시킵니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/8.change_external_mode)
