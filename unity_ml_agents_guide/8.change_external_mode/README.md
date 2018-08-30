@@ -81,5 +81,7 @@ Runs에서 자신이 실행한 Project Name을 클릭하여 확인합니다.
 ![Alt text](/unity_ml_agents_guide/8.change_external_mode/10.tensorboard.png)
 - - -
 
+## [PREV_7. Player Type으로 테스트합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/7.test_player_mode)
+
 ## [NEXT_9. 학습한 Model을 사용하기 위해 TFSharp를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/9.download_TFSharp)
 
