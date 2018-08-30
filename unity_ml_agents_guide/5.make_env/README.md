@@ -85,6 +85,6 @@ Project 창의 Platform Material 클릭 -> Inspector의 Albedo 옆 상자 클릭
 ![Alt text](/unity_ml_agents_guide/5.make_env/12.change_platform_color.png)
 - - -
 
-## [NEXT_4. unity ml agents를 import 합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/4.import_ml_agents)
+## [PREV_4. unity ml agents를 import 합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/4.import_ml_agents)
 
 ## [NEXT_6. Academy와 Agent를 생성합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/6.make_academy_and_agents)
