@@ -88,5 +88,7 @@ Hierarchy 창의 Platform 클릭 -> Inspector 창의 Brain란에 Hierarchy창의
 ![Alt text](/unity_ml_agents_guide/6.make_academy_and_agents/13.set_Guide_Agent.png)
 - - -
 
+## [NEXT_5. 학습할 환경을 구축합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/5.make_env)
+
 ## [NEXT_7. Player Type으로 테스트합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/7.test_player_mode)
 
