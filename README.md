@@ -5,7 +5,7 @@
 - Unity ML Agents의 기본적인 사용법을 알아 봅니다.
 - Unity ML Agents의 예제인 RollerBall을 직접 구현해봅니다.
 
-## unity ml agents 시뮬레이션 영상
+## Unity ML Agents 시뮬레이션 영상
 
 https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 
