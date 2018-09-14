@@ -3,9 +3,9 @@
 
 ## 10-1. 학습이 완료되어 생긴 bytes 파일이 위치한 경로로 이동하여 bytes 파일을 복사합니다.
 
-ml-agents/python/models/[Project Name]
+ml-agents/models/[Project Name]
 
-ex. ml-agents/python/models/Guide_1st
+ex. ml-agents/models/Guide_1st
 
 ![Alt text](/unity_ml_agents_guide/10.change_internal_mode/1.find_byte_file.png)
 - - -
