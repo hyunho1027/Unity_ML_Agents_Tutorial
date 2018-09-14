@@ -18,8 +18,9 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 ## 진행 환경
 - Windows10 64bit
 - Unity 2018.1.6f1 Personal
+- ml-agents v0.5
 - VisualStudio 2015 
-- Tensorflow==1.5.0 
+- Tensorflow==1.7.1 
 - - -
 
 ## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/1.unity_download)
