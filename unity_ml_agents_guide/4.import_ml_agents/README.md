@@ -2,9 +2,9 @@
 - - -
 
 ## 4-1. 위에서 설치한 ml agents 경로로 이동합니다.
-ml agents 폴더에서 unity-environment 의 Assets 폴더로 이동합니다.
+ml agents 폴더에서 UnitySDK 의 Assets 폴더로 이동합니다.
 
-ml-agents/unity-environment/Assets
+ml-agents/UnitySDK/Assets
 
 ![Alt text](/unity_ml_agents_guide/4.import_ml_agents/1.find_ML-Agents.png)
 - - -
