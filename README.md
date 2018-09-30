@@ -12,7 +12,7 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 - - -
 - RollerBall
 
-![Alt text](/unity_ml_agents_guide/sub/mb.gif)
+![Alt text](/unity_ml_agents_/sub/mb.gif)
 - - -
 
 ## 진행 환경
