@@ -1,7 +1,7 @@
-# Unity ML Agents Guide (유니티 머신러닝 에이전트 가이드)
+# Unity ML Agents Tutorials (유니티 머신러닝 에이전트 튜토리얼)
 - - -
 
-## 가이드 설명
+## 튜토리얼 설명
 - Unity ML Agents의 기본적인 사용법을 알아 봅니다.
 - Unity ML Agents의 예제인 RollerBall을 직접 구현해봅니다.
 
