@@ -17,8 +17,6 @@
 ![Alt text](/unity_ml_agents_tutorials/3.create_new_project/3.complete.png)
 - - -
 
-## [PREV_2. Unity ml agents 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/
-2.unity_ml_agent_download)
+## [PREV_2. Unity ml agents 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/2.unity_ml_agent_download)
 
-## [NEXT_4. unity ml agents를 import 합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/
-4.import_ml_agents)
+## [NEXT_4. unity ml agents를 import 합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/4.import_ml_agents)
