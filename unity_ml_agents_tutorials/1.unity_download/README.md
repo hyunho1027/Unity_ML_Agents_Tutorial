@@ -11,9 +11,9 @@ unity 이전 버전 설치 url : https://unity3d.com/kr/get-unity/download/archi
 
 (이 가이드는 untiy 2018 1.6f1 버전으로 진행하였습니다.)
 
-![Alt text](/unity_ml_agents_guide/1.unity_download/unity_download.png)
+![Alt text](/unity_ml_agents_tutorials/1.unity_download/unity_download.png)
 - - -
 
-## [PREV_0. Unity ML Agents Guide 소개.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/)
+## [PREV_0. Unity ML Agents Tutorials 소개.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/)
 
-## [NEXT_2. Unity ml agents 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/2.unity_ml_agent_download)
+## [NEXT_2. Unity ml agents 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/2.unity_ml_agent_download)
