@@ -5,9 +5,9 @@
 
 unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
 
-![Alt text](/unity_ml_agents_guide/2.unity_ml_agent_download/unity_ml_agent_download.png)
+![Alt text](/unity_ml_agents_tutorials/2.unity_ml_agent_download/unity_ml_agent_download.png)
 - - -
 
-## [PREV_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/1.unity_download)
+## [PREV_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/1.unity_download)
 
-## [NEXT_3. 새 프로젝트를 생성합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Guide/tree/master/unity_ml_agents_guide/3.create_new_project)
+## [NEXT_3. 새 프로젝트를 생성합니다.](https://github.com/hyunho1027/Unity_ML_Tutorials/tree/master/unity_ml_agents_tutorials/3.create_new_project)
