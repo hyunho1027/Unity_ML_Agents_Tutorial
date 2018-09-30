@@ -12,7 +12,7 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 - - -
 - RollerBall
 
-![Alt text](/unity_ml_agents_tutorials/sub/mb.gif)
+![Alt text](/unity_ml_agents_tutorial/sub/mb.gif)
 - - -
 
 ## 진행 환경
@@ -23,4 +23,4 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 - Tensorflow==1.7.1 
 - - -
 
-## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorials/tree/master/unity_ml_agents_tutorials/1.unity_download)
+## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/1.unity_download)
