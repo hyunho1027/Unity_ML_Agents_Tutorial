@@ -47,4 +47,4 @@ Hierarchy 의 GuideBrain 클릭 -> Inspector 창의 Brain Type을 Internal로 �
 
 # 끝! 고생하셨습니다.
 
-## [PREV_9. 학습한 Model을 사용하기 위해 TFSharp를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/9.download_TFSharp)
+## [PREV_9. 학습한 Model을 사용하기 위해 TFSharp 설치 및 Player 설정을 변경합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/9.download_TFSharp)
