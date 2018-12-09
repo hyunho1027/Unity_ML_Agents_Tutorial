@@ -1,6 +1,6 @@
 # 9. 학습한 Model을 사용하기 위해 TFSharp 설치 및 Player 설정을 변경합니다.
 
-## 9-1. TFSharp를 설치합니다.
+## 9-1. TFSharp를 설치하고 실행합니다.
 - - -
 
 TFSharp 설치 Url : http://s3.amazonaws.com/unity-ml-agents/0.3/TFSharpPlugin.unitypackage
