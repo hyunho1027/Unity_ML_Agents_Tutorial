@@ -10,7 +10,7 @@ TFSharp 설치 Url : http://s3.amazonaws.com/unity-ml-agents/0.3/TFSharpPlugin.u
 ![Alt text](/unity_ml_agents_tutorial/9.download_TFSharp/1.TFSharp_down.png)
 - - -
 
-## 9-2. Edit -> Project Settings -> Player로 이동하여 inspector 창의 Other Setting으로 이동하여, Scripting Define Symbols* 설정을 아래와 같이 변경합니다.
+## 9-2. Edit -> Project Settings -> Player로 이동하여 inspector 창의 Other Setting의 Scripting Define Symbols* 설정을 아래와 같이 변경합니다.
 
 Scripting Define Symbols* -> ENABLE_TENSORFLOW 입력
 
