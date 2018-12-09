@@ -32,27 +32,6 @@ Display Resolution Dialog -> Disabled
 ![Alt text](/unity_ml_agents_tutorial/4.import_ml_agents/5.resolution_and_presentation_setting.png)
 - - -
 
-## 4-6. 다음 Other Settings의 탭으로 이동하여 설정을 아래와 같이 변경합니다.
-
-Scripting Runtime Version을 .NET 4.x 버전으로 바꿔줍니다.
-
-![Alt text](/unity_ml_agents_tutorial/4.import_ml_agents/6.set_4.x.png)
-- - -
-
-## 4-7. 재시작을 하라는 창이 뜨면 Restart를 눌러 재시작 해줍니다.
-
-![Alt text](/unity_ml_agents_tutorial/4.import_ml_agents/7.restart.png)
-- - -
-
-## 4-8. Other Setting 탭의 설정이 변경된 걸 확인하고 Scripting Define Symbols* 설정을 아래와 같이 변경합니다.
-
-Scripting Runtime Version -> .NET 4.x Equivalent 로 변경
-Api Compatibility Level* -> .NET 4.x 로 변경
-
-Scripting Define Symbols* -> ENABLE_TENSORFLOW 입력
-
-![Alt text](/unity_ml_agents_tutorial/4.import_ml_agents/8.ENABLE_TENSORFLOW.png)
-- - -
 
 ## [PREV_3. 새 프로젝트를 생성합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/3.create_new_project)
 
