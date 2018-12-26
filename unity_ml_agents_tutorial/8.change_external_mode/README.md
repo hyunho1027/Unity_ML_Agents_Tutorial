@@ -1,37 +1,44 @@
 # 8. External Type으로 변경하여 강화학습을 통해 학습시킵니다.
 - - -
 
-## 8-1. GuideBrain 의 Brain Type를 External로 변경합니다.
+## 8-1. Learning Brain을 만들어 줍니다.
 
-Hierarchy의 GuideBrain 클릭 -> Inspector창 Brain Type을 External 로 변경
+이름은 GuideLearningBrain으로 설정해줍니다.
 
-![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/1.change_external.png)
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/1.make_learningbrain.png)
 - - -
 
-## 8-2. 현재 Scene을 저장합니다.
+## 8-2. Platform에 GuideLearningBrain을 import 하고 Brain을 추가하여 Control을 체크해줍니다..
 
-File 클릭 -> Save Scenes 클릭
-
-![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2.save_scene.png)
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2.import_learningbrain.png)
 - - -
 
-## 8-3. 현재 저장된 Scene을 Build 합니다.
-
-File 클릭 -> Build Settings... 클릭
-
-![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/3.build.png)
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2-1.import_learningbrain.png)
 - - -
 
-## 8-4. 현재 저장된 Scene을 체크하고 Build합니다.
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2-2.import_learningbrain.png)
+- - -
 
-체크할 Scene가 없다면 Project창의 Scenes의 왼쪽 삼각형을 클릭하면 나오는 SampleScene를 드래그하여 Scenes In Build 창으로 옮깁니다.
+## 8-3. GuideLearningBrain의 설정을 아래와 같이 변경합니다.
+
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/3.set_learningbrain.png)
+- - -
+
+## 8-4. 현재 Sence을 저장하고 빌드해줍니다.
+
+저장 : File -> Save  
+빌드 : File -> Build Settings
+
+체크할 Scene이 없다면 Project창의 Scenes의 왼쪽 삼각형을 클릭하면 나오는 SampleScene를 드래그하여 Scenes In Build 창으로 옮깁니다.
+
+Build
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/4.check_build_option.png)
 - - -
 
 ## 8-5. Build할 폴더를 지정합니다.
 
-아래 화면은 Build를 누르면 나오는 기본 경로입니다. 저는 기본적으로 설정된 위치에 Build 하였습니다.
+본 가이드는 ml-agents의 폴더안에 Guide_Project폴더를 만들고 그 폴더에 빌드하였습니다. 
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/5.select_build_location.png)
 - - -
