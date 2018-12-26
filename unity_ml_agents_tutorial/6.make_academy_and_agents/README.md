@@ -67,7 +67,7 @@ Project 우클릭 -> Create -> ML-Agents -> Player Brain 클릭
 
 Hierarchy 창의 Platform 클릭 -> Inspector 창의 Brain란에 Project창의 GuidePlayerBrain을 드래그하여 import -> Inspector 창의 Ball란에 Hierarchy창의 Ball을 드래그하여 import
 
-![Alt text](/unity_ml_agents_tutorial/6.make_academy_and_agents/13.set_Guide_Agent.png)
+![Alt text](/unity_ml_agents_tutorial/6.make_academy_and_agents/10.set_Guide_Agent.png)
 - - -
 
 ## [PREV_5. 학습할 환경을 구축합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/5.make_env)
