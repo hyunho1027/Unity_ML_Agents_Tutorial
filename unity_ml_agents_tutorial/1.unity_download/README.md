@@ -9,7 +9,7 @@ unity 최신 버전 설치 url : https://store.unity.com/kr
 
 unity 이전 버전 설치 url : https://unity3d.com/kr/get-unity/download/archive
 
-(이 가이드는 untiy 2018 1.6f1 버전으로 진행하였습니다.)
+(이 가이드는 untiy 2018 3.0f2 버전으로 진행하였습니다.)
 
 ![Alt text](/unity_ml_agents_tutorial/1.unity_download/unity_download.png)
 - - -
