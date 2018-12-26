@@ -10,7 +10,7 @@
 https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 
 - - -
-- RollerBall
+- 3DBall
 
 ![Alt text](/unity_ml_agents_tutorial/sub/mb.gif)
 - - -
