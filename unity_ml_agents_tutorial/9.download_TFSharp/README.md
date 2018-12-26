@@ -20,6 +20,8 @@ TFSharp 설치 Url : http://s3.amazonaws.com/unity-ml-agents/0.3/TFSharpPlugin.u
 
 Scripting Define Symbols* -> ENABLE_TENSORFLOW 입력
 
+Allow 'unsafe' Code 체크
+
 ![Alt text](/unity_ml_agents_tutorial/9.download_TFSharp/3.ENABLE_TENSORFLOW.png)
 - - -
 
