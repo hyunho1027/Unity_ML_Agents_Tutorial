@@ -26,14 +26,14 @@ bytes 파일을 붙여넣기 합니다.
 
 ## 10-4. GuideBrain Type을 Internal로 변경한 뒤 bytes파일을 import 합니다.
 
-Hierarchy 의 GuideBrain 클릭 -> Inspector 창의 Brain Type을 Internal로 변경합니다. -> Graph Model에 bytes파일을 드래그하여 import 합니다.
+Project의 GuideLearningBrain 클릭 -> Inspector 창의 Model에 bytes파일을 드래그하여 import 합니다.
 
 ![Alt text](/unity_ml_agents_tutorial/10.change_internal_mode/4.import_byte_file.png)
 - - -
 
-## 10-5. play를 눌러 실행합니다.
+## 10-5. GuideAcademy의 Brain Control 체크를 해제해줍니다.
 
-![Alt text](/unity_ml_agents_tutorial/10.change_internal_mode/5.play.png)
+![Alt text](/unity_ml_agents_tutorial/10.change_internal_mode/5.noncontrol.png)
 - - -
 
 ## 10-6. 학습한 Model이 Platform을 직접 제어하는 것을 확인합니다.
