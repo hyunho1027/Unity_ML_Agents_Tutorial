@@ -23,4 +23,6 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 - Tensorflow==1.7.1 
 - - -
 
+마지막 업데이트 날짜 : 2019.03.18
+
 ## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/1.unity_download)
