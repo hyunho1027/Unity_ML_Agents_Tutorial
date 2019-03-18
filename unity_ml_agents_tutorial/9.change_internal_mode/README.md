@@ -24,7 +24,7 @@ nn 파일을 붙여넣기 합니다.
 ![Alt text](/unity_ml_agents_tutorial/9.change_internal_mode/3.confirm_nn_file.png)
 - - -
 
-## 9-4. GuideBrain Type을 Internal로 변경한 뒤 nn파일을 import 합니다.
+## 9-4. GuideLearningBrain에 nn파일을 import 합니다.
 
 Project의 GuideLearningBrain 클릭 -> Inspector 창의 Model에 nn파일을 드래그하여 import 합니다.  
 
