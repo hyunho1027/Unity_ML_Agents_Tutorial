@@ -19,12 +19,16 @@ Hierarchy 의 Cube 클릭 -> Inspector창에서 이름 Platform 입력 -> Transf
 
 Hierarchy의 platform 클릭 -> Inspector창의 AddComponent 클릭 -> Rigidbody 입력 -> Rigidbody 클릭
 
+(Rigidbody를 추가하지 않으면 판자가 평평한 상태에서 공이 떨어질 때 멈추는 경우가 생깁니다.)
+
 ![Alt text](/unity_ml_agents_tutorial/5.make_env/3.add_rigid_body.png)
 - - -
 
 ## 5-4. Platform 의 Rigidbody 설정을 아래와 같이 변경합니다.
 
 Hierarchy의 Platform 클릭 -> Inspector창의 Rigidbody 설정에서 Is Kinematic 체크
+
+(Platform에 강체 속성을 주었지만 외부로부터 영향을 받지 않기 위함입니다.)
 
 ![Alt text](/unity_ml_agents_tutorial/5.make_env/4.Check_Is_Kinematic.png)
 - - -
