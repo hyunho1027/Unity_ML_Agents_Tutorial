@@ -109,5 +109,5 @@ Runs에서 자신이 실행한 Project Name을 클릭하여 확인합니다.
 
 ## [PREV_7. Player Type으로 테스트합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/7.test_player_mode)
 
-## [NEXT_9. 학습한 Model을 사용하기 위해 TFSharp 설치 및 Player 설정을 변경합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/9.download_TFSharp)
+## [NEXT_9. 학습이 완료된 Model을 Internal Type으로 실행합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/9.change_internal_mode)
 
