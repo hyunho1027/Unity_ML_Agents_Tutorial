@@ -52,9 +52,9 @@ Build가 완료되면 아래와 같이 Build된 경로의 폴더가 열립니다
 
 ## 8-7. ml-agents에 필요한 환경을 설치합니다.
 
-설치했던 ml-agents 폴더안의 ml-agents 폴더로 이동한 후  
+설치했던 ml-agents 폴더안의 ml-agents 폴더와 ml-agents-envs 폴더에서  
 
-아래와 같이 pip install . 명령어를 실행해 줍니다.
+아래와 같이 pip install . 명령어를 각각 실행해 줍니다.
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/7.install_mlagents.png)
 - - -
