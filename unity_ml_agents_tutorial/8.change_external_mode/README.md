@@ -8,7 +8,7 @@
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/1.make_learningbrain.png)
 - - -
 
-## 8-2. Platform에 GuideLearningBrain을 import 하고 Brain을 추가하여 Control을 체크해줍니다..
+## 8-2. Platform에 GuideLearningBrain을 import 하고 Brain을 추가하여 Control을 체크해줍니다.
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2.import_learningbrain.png)
 - - -
