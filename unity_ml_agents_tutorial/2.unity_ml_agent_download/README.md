@@ -5,6 +5,8 @@
 
 unity ml agents 설치 url : https://github.com/Unity-Technologies/ml-agents
 
+본 가이드에서는 clone을 통해 설치하였습니다. zip을 이용하여 설치하면 상위 폴더명이 ml-agents-master로 됩니다.
+
 ![Alt text](/unity_ml_agents_tutorial/2.unity_ml_agent_download/unity_ml_agent_download.png)
 - - -
 
