@@ -17,12 +17,12 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 
 ## 진행 환경
 - Windows10 64bit
-- Unity 2018.3.0f2 Personal
-- ml-agents v0.7
+- Unity 2019.1.0f2 Personal
+- ml-agents v0.8
 - VisualStudio 2017
 - Tensorflow==1.7.1 
 - - -
 
-마지막 업데이트 날짜 : 2019.03.18
+마지막 업데이트 날짜 : 2019.04.22
 
 ## [NEXT_1. Unity를 설치합니다.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/tree/master/unity_ml_agents_tutorial/1.unity_download)
