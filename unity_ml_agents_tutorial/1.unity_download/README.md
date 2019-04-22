@@ -16,11 +16,11 @@ unity 이전 버전 설치 url : https://unity3d.com/kr/get-unity/download/archi
 
 Personal 버전을 클릭하면 다음과 같은 화면이 나오고 여기서 Unity Hub를 설치해줍니다.
 
-![Alt text](/unity_ml_agents_tutorial/1.unity_download/unity_hub.png)
-- - -
 
 Unity Hub를 설치하면 실행하여 아래 그림과 같이 Installs의 Official Releases에서 원하는 버전을 설치하여줍니다.
 
+![Alt text](/unity_ml_agents_tutorial/1.unity_download/unity2019.1.02f2.png)
+- - -
 
 ## [PREV_0. Unity ML Agents Tutorial 소개.](https://github.com/hyunho1027/Unity_ML_Agents_Tutorial/)
 
