@@ -14,7 +14,7 @@ ex. ml-agents/models/Guide_1st
 
 Project의 GuideLearningBrain 클릭 -> Inspector 창의 Model에 nn파일을 드래그하여 import 합니다.  
 
-Inference Device는 각자 맞는 장치로 설정합니다.
+Inference Device는 각자 맞는 장치로 설정합니다.(본 가이드에서는 GPU환경에서 실행하였습니다.)
 
 ![Alt text](/unity_ml_agents_tutorial/9.change_internal_mode/4.import_nn_file.png)
 - - -
