@@ -24,7 +24,7 @@ Display Resolution Dialog -> Disabled
 
 ## 4-4. 다음 Other Settings의 탭으로 이동하여 설정을 아래와 같이 변경합니다.
 
-Scripting Runtime Version과 Api Compatibility Level을 .NET 4.x 버전으로 바꿔줍니다.
+Api Compatibility Level을 .NET 4.x 버전으로 바꿔줍니다.
 
 (필요시 재시작 해줍니다.)
 
