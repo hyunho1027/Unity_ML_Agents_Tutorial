@@ -3,12 +3,12 @@
 
 ## 8-1. Learning Brain을 만들어 줍니다.
 
-이름은 GuideLearningBrain으로 설정해줍니다.
+이름은 TutoLearningBrain으로 설정해줍니다.
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/1.make_learningbrain.png)
 - - -
 
-## 8-2. Platform에 GuideLearningBrain을 import 하고 Brain을 추가하여 Control을 체크해줍니다.
+## 8-2. Platform에 TutoLearningBrain을 import 하고 Brain을 추가하여 Control을 체크해줍니다.
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2.import_learningbrain.png)
 - - -
@@ -19,7 +19,7 @@
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/2-2.import_learningbrain.png)
 - - -
 
-## 8-3. GuideLearningBrain의 설정을 아래와 같이 변경합니다.
+## 8-3. TutoLearningBrain의 설정을 아래와 같이 변경합니다.
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/3.set_learningbrain.png)
 - - -
@@ -38,7 +38,7 @@ Build
 
 ## 8-5. Build할 폴더를 지정합니다.
 
-본 가이드는 ml-agents의 폴더안에 Guide_Project폴더를 만들고 그 폴더에 빌드하였습니다. 
+본 가이드는 ml-agents의 폴더안에 Tuto 폴더를 만들고 그 폴더에 빌드하였습니다. 
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/5.select_build_location.png)
 - - -
@@ -82,9 +82,13 @@ mlagents-learn <trainer-config-file> --env=<env_name> --run-id=<run-identifier> 
 
 을 통해 학습합니다.
 
-ex. mlagents-learn config/trainer_config.yaml --env=[Build Path]/Guide_Project --run-id=Guide_1st --train
+ex. mlagents-learn config/trainer_config.yaml --env=[Build Path]/Tuto --run-id=Tuto --train
 
 ![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/10.learn.png)
+
+학습이 완료되면 해당 경로에 인공신경망 정보가 다음과 같이 저장됩니다.
+
+![Alt text](/unity_ml_agents_tutorial/8.change_external_mode/10-2.finish_learn.png)
 - - -
 
 ## 8-11. 학습이 잘 되고 있는지 Tensorboard를 이용하여 확인합니다.
