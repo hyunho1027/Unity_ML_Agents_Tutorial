@@ -5,21 +5,21 @@
 
 ml-agents/models/[Project Name]
 
-ex. ml-agents/models/Guide_1st
+ex. ml-agents/models/Tuto-0
 
 ![Alt text](/unity_ml_agents_tutorial/9.change_internal_mode/1.find_nn_file.png)
 - - -
 
-## 9-2. GuideLearningBrain에 nn파일을 import 합니다.
+## 9-2. TutoLearningBrain에 nn파일을 import 합니다.
 
-Project의 GuideLearningBrain 클릭 -> Inspector 창의 Model에 nn파일을 드래그하여 import 합니다.  
+Project의 TutoLearningBrain 클릭 -> Inspector 창의 Model에 nn파일을 드래그하여 import 합니다.  
 
 Inference Device는 각자 맞는 장치로 설정합니다.(본 가이드에서는 GPU환경에서 실행하였습니다.)
 
 ![Alt text](/unity_ml_agents_tutorial/9.change_internal_mode/4.import_nn_file.png)
 - - -
 
-## 9-3. GuideAcademy의 Brain Control 체크를 해제해줍니다.
+## 9-3. TutoAcademy의 Brain Control 체크를 해제해줍니다.
 
 ![Alt text](/unity_ml_agents_tutorial/9.change_internal_mode/5.noncontrol.png)
 - - -
