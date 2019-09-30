@@ -13,7 +13,7 @@ Project의 GuidePlayerBrain 클릭 -> Inspector창 Vector Observation 의 Space 
 ![Alt text](/unity_ml_agents_tutorial/7.test_player_mode/2.play.png)
 - - -
 
-## 7-3. 설정한 W, A, S, D 키를 이용하여 Platform을 조작해봅니다.
+## 7-3. 설정한 방향 키를 이용하여 Platform을 조작해봅니다.
 
 ![Alt text](/unity_ml_agents_tutorial/7.test_player_mode/3.player_mode.gif)
 - - -
