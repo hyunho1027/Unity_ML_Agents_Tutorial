@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCZx739AbunG2bGD5t0sNAhw
 ## 진행 환경
 - Windows10 64bit
 - Unity 2019.2.6f1 Personal
-- ml-agents v0.93
+- ml-agents v0.9.3
 - VisualStudio 2017
 - Tensorflow==1.7.1 
 - - -
