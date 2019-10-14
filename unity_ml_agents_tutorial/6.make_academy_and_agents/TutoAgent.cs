@@ -20,14 +20,13 @@ public class TutoAgent : Agent
 		AddVectorObs(gameObject.transform.rotation.x);
 		AddVectorObs(ball.transform.position - gameObject.transform.position);
 		AddVectorObs(ball.GetComponent<Rigidbody>().velocity);
-		AddVectorObs(ball.GetComponent<Rigidbody>().angularVelocity);
 	}
 
 	public override void AgentAction(float[] vectorAction, string textAction)
 	{
 		//set action
-		gameObject.transform.Rotate(new Vector3(0, 0, 1), vectorAction[0]);
-		gameObject.transform.Rotate(new Vector3(1, 0, 0), vectorAction[1]);
+		gameObject.transform.Rotate(new Vector3(0, 0, 1), 2f * vectorAction[0]);
+		gameObject.transform.Rotate(new Vector3(1, 0, 0), 2f * vectorAction[1]);
 
 		//set reward
 		if ((ball.transform.position.y - gameObject.transform.position.y) < -2f ||
